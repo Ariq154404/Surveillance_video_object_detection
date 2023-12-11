@@ -17,8 +17,8 @@ This project aims to detect objects in real-time from CCTV footage using PyTorch
 ## Installation
 To set up the project environment, follow these steps:
    ```bash
-   git clone https://github.com/your-repo/cctv-object-detection.git
+   git clone https://github.com/Ariq154404/Surveillance_video_object_detection
    pip install torch torchvision opencv-python
    python object_detection.py --video path/to/your/video.mp4
 ```
-![Object Detection Demo](URL_OF_YOUR_GIF)
+![Object Detection Demo](https://github.com/Ariq154404/Surveillance_video_object_detection/blob/main/sample_vid.gif)
