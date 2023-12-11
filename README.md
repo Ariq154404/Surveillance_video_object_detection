@@ -21,4 +21,7 @@ To set up the project environment, follow these steps:
    pip install torch torchvision opencv-python
    python object_detection.py --video path/to/your/video.mp4
 ```
+## Demo
+
+Check out how my CCTV Object Detection sample works in real-time:
 ![Object Detection Demo](https://github.com/Ariq154404/Surveillance_video_object_detection/blob/main/sample_vid.gif)
